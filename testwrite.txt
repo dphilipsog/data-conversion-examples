@@ -1,0 +1,2 @@
+Hi, I'm the text insdie the file myfile.txt
+Hello from fileio.py
